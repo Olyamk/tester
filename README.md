@@ -7,7 +7,7 @@
 
 ## **Навыки и технологии**
 
-Jira, qase.io, SQL, Postman, Trello, SoapUI,  Chrome DevTools.
+Jira, qase.io, SQL, Postman, Trello, SoapUI,  Chrome DevTools, PostgreSQL, Sitechco .
 
 ## **Проекты**
 
