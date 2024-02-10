@@ -82,5 +82,5 @@ Jira, qase.io, SQL, Postman, Trello, SoapUI,  Chrome DevTools, PostgreSQL, Sitec
 
 ## **Контактная информация**
 
-Email: helia88@mail.ru
-telegram: t.me/Olyamk1
+1. Email: helia88@mail.ru
+2. telegram: t.me/Olyamk1
